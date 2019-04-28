@@ -1,0 +1,103 @@
+table,th,td{
+			 border: 1px solid black;
+			 text-align: left;
+		}
+		.head{
+			position: fixed;
+			
+		}
+		table{
+			border-collapse: collapse;
+			overflow:scroll;
+			display: block;
+			height: 580px;
+			margin:10px;
+			width: 1450px;
+        }
+		th,td{
+			padding:8px;
+		}
+		th{
+			background-color: rgb(112,112,112);
+			color:rgb(248,248,248);
+
+		}
+		legend{
+			font-size: 150%;
+			font-family: Verdana;
+		}
+		label{
+			  display: block;
+              text-align: left;
+              font-size: 120%;
+              margin: 3px;
+              font-family:Palatino Linotype;
+		}
+		fieldset{
+			text-align: left;
+		}
+		.but{
+			background:#F8F8F8;
+			padding: 3px;
+			font-size: 15px;
+			border-radius: 3px;
+		    width: 80px;
+		}
+		.but:hover{
+			background:#F0F0F0;
+			cursor: pointer;
+			box-shadow: 0 1px 6px 0 rgba(0,0,0,0.24),0 3px 3px 0 rgba(0,0,0,0.19);
+		}
+		#stats{
+			width: 400px;
+			color:#181818;
+			background-color: #E8E8E8;
+			
+		}
+		#one{
+			background:#BEBEBE;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
+		#two{
+
+			background:#DCDCDC;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
+		#three{
+
+			background:#F5F5F5;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
+		#one1{
+			background:#BEBEBE;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
+		#two2{
+
+			background:#808080;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
+		#three3{
+
+			background:#DCDCDC;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
+		#four4{
+
+			background:#FF6600;
+			width:300px;
+			height: 20px;
+			padding: 5px;
+		}
