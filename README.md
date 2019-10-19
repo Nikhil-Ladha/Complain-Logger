@@ -24,3 +24,6 @@ You can understand how to create the database and link it to the site from any y
 
 
 Thank You!
+Regards
+Nikhil Ladha
+Student & Geek
