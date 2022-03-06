@@ -21,3 +21,5 @@ I have used MySQL language to create database and tables in it.Used the phpmyadm
 xampp software for creating a localhost server in the system.
 
 You can understand how to create the database and link it to the site from any youtube video available out there.
+
+*P.S: You will need a server to run PHP locally for example: xampp*
